@@ -1,5 +1,5 @@
-# pokedex
-
+# Pokedex
+Pojeto frontend desenvolvido com Vue.js utilizando a API PokéAPI
 ## Project setup
 ```
 npm install
